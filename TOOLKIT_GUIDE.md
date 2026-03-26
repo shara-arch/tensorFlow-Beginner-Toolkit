@@ -1,0 +1,37 @@
+# Prompt-Powered Kickstart: Building a Beginner's Toolkit for TensorFlow
+
+## Table of Contents
+- [Getting Started with TensorFlow - A Beginner's Guide](#getting-started-with-tensorflow---a-beginners-guide)
+  - [Technologies Used](#technologies-used)
+  - [Why TensorFlow?](#why-tensorflow)
+  - [What's the end goal?](#whats-the-end-goal)
+- [What is TensorFlow?](#what-is-tensorflow)
+  - [Where is TensorFlow used?](#where-is-tensorflow-used)
+  - [Real-World Example](#real-world-example)
+  - [Key Concepts](#key-concepts)
+- [System Requirements](#system-requirements)
+  - [Operating System](#operating-system)
+  - [Python Version](#python-version)
+  - [Hardware Requirements](#hardware-requirements)
+  - [Required Tools & Editors](#required-tools--editors)
+  - [Required Packages](#required-packages)
+  - [Installation & Setup Instructions](#installation--setup-instructions)
+- [Working Examples](#working-examples)
+  - [Example 1: Hello TensorFlow](#example-1-hello-tensorflow)
+  - [Example 2: Simple Neural Network](#example-2-simple-neural-network)
+  - [Example 3: MNIST Digit Classifier](#example-3-mnist-digit-classifier)
+- [AI Prompt Journal](#ai-prompt-journal)
+  - [Prompt #1: Installation Guidance](#prompt-1-installation-guidance)
+  - [Prompt #2: Understanding Tensors](#prompt-2-understanding-tensors)
+  - [Prompt #3: Building a Simple Neural Network](#prompt-3-building-a-simple-neural-network)
+- [Common Issues & Fixes](#common-issues--fixes)
+- [Helpful Resources](#helpful-resources)
+  - [Official Documentation](#official-documentation)
+  - [Recommended Video Tutorials](#recommended-video-tutorials)
+  - [Blog Posts & Articles](#blog-posts--articles)
+  - [Interactive Learning Platforms](#interactive-learning-platforms)
+  - [Datasets to Practice With](#datasets-to-practice-with)
+- [Books for Deeper Learning](#books-for-deeper-learning)
+
+---
+
